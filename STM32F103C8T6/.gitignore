@@ -1,0 +1,31 @@
+# Executables
+*.out
+*.hex
+*.bin
+
+# Linker output
+*.map
+
+# Object files
+*.browse
+*.cout
+*.linf
+*.o
+*.pbd
+*.pbi
+*.xcl
+
+# Log
+*.log
+
+#IAR
+*.dep
+*.ewt
+*.tmp
+
+#vscode
+*.ipch
+settings/*
+
+build/*
+*.mxproject
